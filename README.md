@@ -191,9 +191,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-- **Portfolio**: [Your Live Portfolio URL]
+- **Portfolio**: https://padmajaa1103.free.nf/
 - **GitHub**: [https://github.com/Padmajaa1103](https://github.com/Padmajaa1103)
-- **LinkedIn**: [Your LinkedIn Profile]
+  
 
 ---
 
