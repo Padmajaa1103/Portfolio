@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "name": "Priya Sharma",
+    "title": "Computer Science Student",
+    "tagline": "Building thoughtful web experiences, one project at a time.",
+    "resume": "assets/resume.pdf",
+    "email": "priya.sharma@example.com"
+  },
+  "about": {
+    "intro": "I am a final-year Computer Science student passionate about web development and user-centric design. I enjoy transforming ideas into responsive, accessible interfaces. Currently exploring modern JavaScript frameworks and cloud basics to deliver scalable solutions.",
+    "education_background": "B.Tech in Computer Science, ABC University (2021–2025)",
+    "career_goal": "Start as a frontend or full-stack developer and grow into a product-focused engineer.",
+    "strengths": "Detail-oriented, collaborative, quick learner, problem solver, clear communicator."
+  },
+  "skills": {
+    "programming_languages": ["JavaScript", "Python", "C++"],
+    "web_technologies": ["HTML5", "CSS3", "Tailwind", "React (basics)"],
+    "databases": ["MySQL", "MongoDB (intro)"],
+    "tools": ["Git/GitHub", "VS Code", "Figma", "Postman"],
+    "soft_skills": ["Teamwork", "Adaptability", "Presentation", "Time management"]
+  },
+  "projects": [
+    {
+      "title": "Campus Event Hub",
+      "description": "Responsive portal for students to discover, register, and track campus events.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Firebase"],
+      "features": ["Event cards with filters", "RSVP with email confirmation", "Saved events list"],
+      "github": "https://github.com/username/campus-event-hub"
+    },
+    {
+      "title": "Study Planner",
+      "description": "Task planner with priorities and daily streak tracking.",
+      "technologies": ["React", "Tailwind CSS"],
+      "features": ["Drag-and-drop tasks", "Streak badges", "Local storage persistence"],
+      "github": "https://github.com/username/study-planner"
+    },
+    {
+      "title": "Portfolio Site",
+      "description": "Personal portfolio with smooth scroll and responsive grid.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "features": ["Section navigation", "Project cards", "Contact CTA"],
+      "github": "https://github.com/username/portfolio"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "ABC University",
+      "year": "2025",
+      "score": "CGPA: 8.6/10"
+    },
+    {
+      "degree": "Senior Secondary (PCM)",
+      "institution": "XYZ School",
+      "year": "2021",
+      "score": "92%"
+    }
+  ],
+  "internships": [
+    {
+      "organization": "TechStart Labs",
+      "duration": "Jun – Jul 2024",
+      "role": "Frontend Intern",
+      "learnings": "Built responsive UI components, improved accessibility, collaborated using Git, integrated basic APIs."
+    }
+  ],
+  "certifications": [
+    {
+      "course": "JavaScript Algorithms and Data Structures",
+      "issuer": "freeCodeCamp"
+    },
+    {
+      "course": "Responsive Web Design",
+      "issuer": "freeCodeCamp"
+    },
+    {
+      "course": "Version Control with Git",
+      "issuer": "Coursera"
+    }
+  ],
+  "achievements": [
+    "Finalist, UniHack 2024 (real-time study buddy app)",
+    "Department Merit Scholarship (2023)"
+  ],
+  "contact": {
+    "email": "priya.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "linkedin": "https://linkedin.com/in/priya-sharma",
+    "github": "https://github.com/username",
+    "location": "Bengaluru, India"
+  },
+  "footer": {
+    "text": "© 2025 Priya Sharma. All rights reserved.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/priya-sharma",
+      "github": "https://github.com/username",
+      "email": "mailto:priya.sharma@example.com"
+    }
+  }
+}
+
