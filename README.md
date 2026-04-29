@@ -96,13 +96,7 @@ A dynamic portfolio website built with PHP, MySQL, and modern web technologies. 
    - Import `portfolio_db.sql` through your hosting control panel
    - Update table prefixes if needed
 
-## 🔐 Admin Access
-
-### Default Credentials
-- **Username**: `admin`
-- **Password**: `admin123`
-
-**⚠️ Security Note**: Change the default password after first login!
+ 
 
 ### Access Methods
 1. **Direct URL**: `/admin/login.php`
